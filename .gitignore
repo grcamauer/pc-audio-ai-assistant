@@ -8,6 +8,3 @@ __pycache__/
 # Node.js
 node_modules/
 dist/
-
-# Tauri
-/src-tauri/target/

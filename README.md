@@ -12,14 +12,13 @@ based on user context using Retrieval-Augmented Generation (RAG).
 - Keyword-based question detection
 - RAG pipeline with local vector store (FAISS/Chroma)
 - Local or remote LLM via Ollama or OpenAI
-- UI overlay using Tauri
+- Overlay UI using Python
 - Multilingual architecture (English, Spanish, French, Portuguese, German)
 
 ## Requirements
 
 - Python 3.10+
-- Rust (for Tauri UI)
-- Node.js (for Tauri front-end)
+- Node.js (optional, if any web UI tooling is used later)
 
 ## Getting Started
 
