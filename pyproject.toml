@@ -2,7 +2,7 @@
 name = "pc-audio-ai-assistant"
 version = "0.1.0"
 description = "Real-time AI assistant that listens to PC audio and responds to questions"
-authors = [{ name = "Gonzalo Ruiz Camauer", email = "example@example.com" }]
+authors = [{ name = "Guillermo Ruiz Camauer", email = "example@example.com" }]
 readme = "README.md"
 requires-python = ">=3.10"
 
